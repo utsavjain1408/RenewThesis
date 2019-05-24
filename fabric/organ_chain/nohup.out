@@ -1,0 +1,246 @@
+[I 16:21:49.023 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 16:21:49.597 NotebookApp] JupyterLab extension loaded from /home/thesis/anaconda2/lib/python2.7/site-packages/jupyterlab
+[I 16:21:49.597 NotebookApp] JupyterLab application directory is /home/thesis/anaconda2/share/jupyter/lab
+[I 16:21:49.616 NotebookApp] Serving notebooks from local directory: /home/thesis/ocean/organ-procurement-transplant-network/fabric/organ_chain
+[I 16:21:49.616 NotebookApp] The Jupyter Notebook is running at:
+[I 16:21:49.616 NotebookApp] http://localhost:8888/?token=d373f076f92e1ee0fb2b66d27fe3a5707480951a8fa570f4
+[I 16:21:49.616 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:21:49.619 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d373f076f92e1ee0fb2b66d27fe3a5707480951a8fa570f4
+[I 16:21:51.644 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 16:23:55.258 NotebookApp] Kernel started: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:23:55.983 NotebookApp] Adapting to protocol v5.1 for kernel 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:25:55.379 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:26:59.163 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:27:04.633 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:27:55.262 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/162804.933676:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 16:31:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:33:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:35:55.250 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:37:55.269 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/163805.753185:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 16:39:22.800 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:39:27.394 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:39:55.281 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:43:55.255 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:45:55.248 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:47:55.440 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:49:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:51:33.661 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:51:39.483 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 16:51:55.267 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:55:55.529 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:57:55.249 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 16:59:55.256 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:01:55.264 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:03:55.270 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:04:20.093 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:04:57.526 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:05:55.266 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:07:55.261 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:09:55.468 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:11:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:13:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:15:55.252 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:17:55.254 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/172119.305578:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:21:55.303 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:25:55.407 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:27:55.275 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:29:55.259 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/173144.310261:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:31:55.252 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/173208.553136:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:32:58.558 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:33:04.275 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:33:55.269 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:37:55.259 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/173931.713605:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:39:55.254 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:41:38.772 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:41:55.265 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:43:55.260 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/174451.813515:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:45:55.251 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:47:55.480 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/174925.067589:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:49:55.377 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:50:57.108 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 17:51:55.312 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/175318.791470:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[4508:4529:0430/175404.463161:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 17:55:55.252 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:57:55.261 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 17:59:55.252 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:01:55.259 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/180224.317418:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 18:03:50.383 NotebookApp] Kernel interrupted: 364c395c-c147-4a4b-b359-11607f3d0b14
+[I 18:03:55.258 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[4508:4529:0430/180530.824376:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+[I 18:05:55.432 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:07:55.257 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:09:55.260 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:11:55.253 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:13:55.269 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:15:55.257 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:17:55.255 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 18:19:55.255 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 19:55:16.355 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 19:55:18.795 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 19:55:20.051 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[I 19:55:33.954 NotebookApp] Kernel started: e7e5c032-5b80-4a2b-9ee5-c9a7a4558df6
+[I 19:55:35.002 NotebookApp] Adapting to protocol v5.1 for kernel e7e5c032-5b80-4a2b-9ee5-c9a7a4558df6
+[I 19:55:50.800 NotebookApp] Starting buffering for e7e5c032-5b80-4a2b-9ee5-c9a7a4558df6:44423dec938c49c88932490bb24d99c0
+[I 19:55:59.794 NotebookApp] Kernel started: c20fd6a0-25ad-48d3-8923-20739a8685ca
+[I 19:56:03.529 NotebookApp] Kernel started: d7c3c79a-63ad-4b08-b9be-e9e6989408b6
+[I 19:56:04.238 NotebookApp] Adapting to protocol v5.1 for kernel d7c3c79a-63ad-4b08-b9be-e9e6989408b6
+[I 19:56:06.697 NotebookApp] Adapting to protocol v5.1 for kernel c20fd6a0-25ad-48d3-8923-20739a8685ca
+[I 19:56:31.645 NotebookApp] Saving file at /TOPO2/Experiment1(BatchTImeout)/Test Bench.ipynb
+[W 19:56:43.230 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190430162149 (127.0.0.1) 30.44ms referer=http://localhost:8888/notebooks/TOPO1/Experiment%201/Load_generator.py.ipynb
+[W 19:56:53.906 NotebookApp] 404 GET /nbconvert/html/TOPO2/Experiment1(BatchTImeout)/custom.css (127.0.0.1): No such file or directory: TOPO2/Experiment1(BatchTImeout)/custom.css
+[W 19:56:53.908 NotebookApp] 404 GET /nbconvert/html/TOPO2/Experiment1(BatchTImeout)/custom.css (127.0.0.1) 70.25ms referer=http://localhost:8888/nbconvert/html/TOPO2/Experiment1(BatchTImeout)/Test%20Bench.ipynb?download=false
+Gtk-Message: 19:57:06.832: GtkDialog mapped without a transient parent. This is discouraged.
+[I 19:58:21.930 NotebookApp] Starting buffering for d7c3c79a-63ad-4b08-b9be-e9e6989408b6:b29d72dd29d14f548722dd04ab455697
+[I 19:58:22.835 NotebookApp] Starting buffering for c20fd6a0-25ad-48d3-8923-20739a8685ca:dfc8b7ecab3a446ab242a2c50f0fa982
+[I 19:59:04.261 NotebookApp] Kernel started: bd0219cb-c19d-4b64-92b7-dbfedf5c5edd
+[I 19:59:05.429 NotebookApp] Adapting to protocol v5.1 for kernel bd0219cb-c19d-4b64-92b7-dbfedf5c5edd
+[I 19:59:42.981 NotebookApp] Starting buffering for 364c395c-c147-4a4b-b359-11607f3d0b14:135cb73f2e3546e9849c81bf3fd130ef
+[I 19:59:43.065 NotebookApp] Starting buffering for bd0219cb-c19d-4b64-92b7-dbfedf5c5edd:b6d2a11b0bc74b7588fefa7c9d2346f9
+[I 20:00:40.690 NotebookApp] Interrupted...
+[I 20:00:40.690 NotebookApp] Shutting down 5 kernels
+Traceback (most recent call last):
+  File "/home/thesis/anaconda2/bin/jupyter-notebook", line 11, in <module>
+    sys.exit(main())
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/jupyter_core/application.py", line 266, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 658, in launch_instance
+    app.start()
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/notebook/notebookapp.py", line 1741, in start
+    self.cleanup_kernels()
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/notebook/notebookapp.py", line 1618, in cleanup_kernels
+    self.kernel_manager.shutdown_all()
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/jupyter_client/multikernelmanager.py", line 160, in shutdown_all
+    self.finish_shutdown(kid)
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/jupyter_client/multikernelmanager.py", line 33, in wrapped
+    r = method(*args, **kwargs)
+  File "/home/thesis/anaconda2/lib/python2.7/site-packages/jupyter_client/manager.py", line 282, in finish_shutdown
+    time.sleep(pollinterval)
+KeyboardInterrupt
+[4508:4508:0430/200107.004286:ERROR:http_bridge.cc(126)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+[4508:4529:0430/200107.073931:ERROR:browser_process_sub_thread.cc(209)] Waited 41 ms for network service
+[I 20:01:13.583 NotebookApp] JupyterLab extension loaded from /home/thesis/anaconda2/lib/python2.7/site-packages/jupyterlab
+[I 20:01:13.584 NotebookApp] JupyterLab application directory is /home/thesis/anaconda2/share/jupyter/lab
+[I 20:01:13.597 NotebookApp] Serving notebooks from local directory: /home/thesis/ocean/organ-procurement-transplant-network/fabric/organ_chain
+[I 20:01:13.597 NotebookApp] The Jupyter Notebook is running at:
+[I 20:01:13.597 NotebookApp] http://localhost:8888/?token=30f4eb69a75c1b055906b4ecb2922645f1bc4e4f3926d021
+[I 20:01:13.597 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:01:13.602 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=30f4eb69a75c1b055906b4ecb2922645f1bc4e4f3926d021
+[I 20:01:14.523 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 20:01:25.539 NotebookApp] Kernel started: 3f68f3c6-cd31-4239-b4fc-bdaee8d4f456
+[I 20:01:26.292 NotebookApp] Adapting to protocol v5.1 for kernel 3f68f3c6-cd31-4239-b4fc-bdaee8d4f456
+[I 20:01:39.354 NotebookApp] Starting buffering for 3f68f3c6-cd31-4239-b4fc-bdaee8d4f456:de2092b71321406280e9584562484798
+[I 20:01:39.563 NotebookApp] Kernel shutdown: 3f68f3c6-cd31-4239-b4fc-bdaee8d4f456
+--2019-04-30 20:02:19--  https://clients2.google.com/cr/report
+Resolving clients2.google.com (clients2.google.com)... 216.58.194.174, 2607:f8b0:4005:80b::200e
+Connecting to clients2.google.com (clients2.google.com)|216.58.194.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/fd/4’
+
+     0K    
+ Crash dump id:  039626dba179331a 
+                                                 1.41M=0s
+
+2019-04-30 20:02:20 (1.41 MB/s) - ‘/dev/fd/4’ saved [16]
+
+--2019-04-30 20:02:20--  https://clients2.google.com/cr/report
+Resolving clients2.google.com (clients2.google.com)... 216.58.194.174, 2607:f8b0:4005:80b::200e
+Connecting to clients2.google.com (clients2.google.com)|216.58.194.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/fd/4’
+
+Crash dump id: bee726cb7d7cb89e
+[I 20:03:01.044 NotebookApp] Kernel started: e9d8f618-63cf-4aca-9554-76bc60a478e2
+[I 20:03:01.874 NotebookApp] Adapting to protocol v5.1 for kernel e9d8f618-63cf-4aca-9554-76bc60a478e2
+[I 20:04:22.702 NotebookApp] Starting buffering for e9d8f618-63cf-4aca-9554-76bc60a478e2:eda8d602020c4ab7832cf9d1a2fa68ce
+[I 20:04:32.715 NotebookApp] Kernel started: 4e967d89-bfcb-4d6a-9022-3b04b22c4adc
+[I 20:04:33.505 NotebookApp] Adapting to protocol v5.1 for kernel 4e967d89-bfcb-4d6a-9022-3b04b22c4adc
+[I 20:05:06.115 NotebookApp] Copying TOPO 1 Experiment Results .ipynb to 
+[I 20:05:09.011 NotebookApp] Kernel started: 7dbb9f07-9dd2-49af-8734-9d128761f13c
+[I 20:05:09.744 NotebookApp] Adapting to protocol v5.1 for kernel 7dbb9f07-9dd2-49af-8734-9d128761f13c
+[W 20:05:17.306 NotebookApp] 404 GET /static/components/preact/preact.min.js.map (127.0.0.1) 24.36ms referer=None
+[W 20:05:17.311 NotebookApp] 404 GET /static/components/proptypes/index.js.map (127.0.0.1) 3.67ms referer=None
+[W 20:05:17.315 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (127.0.0.1) 3.15ms referer=None
+[I 20:06:08.272 NotebookApp] Starting buffering for 4e967d89-bfcb-4d6a-9022-3b04b22c4adc:04d1338f74354a9385d3e8828875fdda
+[I 20:07:09.164 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 20:07:21.736 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 20:09:09.027 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 20:09:21.114 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 20:25:09.048 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 07:10:35.346 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 07:10:35.862 NotebookApp] JupyterLab extension loaded from /home/thesis/anaconda2/lib/python2.7/site-packages/jupyterlab
+[I 07:10:35.862 NotebookApp] JupyterLab application directory is /home/thesis/anaconda2/share/jupyter/lab
+[I 07:10:35.879 NotebookApp] Serving notebooks from local directory: /home/thesis/ocean/organ-procurement-transplant-network/fabric/organ_chain
+[I 07:10:35.879 NotebookApp] The Jupyter Notebook is running at:
+[I 07:10:35.879 NotebookApp] http://localhost:8888/?token=6784d369f7de9d5bf4ca1fe983c81bd9bd4092eb3fbb5bbc
+[I 07:10:35.879 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:10:35.881 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6784d369f7de9d5bf4ca1fe983c81bd9bd4092eb3fbb5bbc
+[I 07:10:37.721 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[1:8:0501/071037.964206:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[W 07:10:44.458 NotebookApp] Notebook TOPO 1 Experiment Results .ipynb is not trusted
+[I 07:10:45.668 NotebookApp] Kernel started: 5f1cb7e4-faae-477a-8bbd-4ea298d070b4
+[I 07:10:46.494 NotebookApp] Adapting to protocol v5.1 for kernel 5f1cb7e4-faae-477a-8bbd-4ea298d070b4
+[I 07:12:45.625 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:14:49.033 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:16:47.202 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:18:46.483 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:20:49.919 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:22:46.353 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:24:47.053 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:26:49.328 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:28:46.513 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:30:46.660 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:32:47.146 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:34:51.064 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:36:46.217 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:38:49.735 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:40:48.068 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:42:48.201 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 07:46:45.862 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[3491:3512:0501/101003.816892:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[I 12:38:45.646 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 12:38:55.764 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 12:39:06.419 NotebookApp] Kernel started: 49f0d7a9-bfa1-4945-8f17-5161a49f79ed
+[I 12:39:07.117 NotebookApp] Kernel started: bc567f95-ffd3-409e-b823-cd0ae93f7c46
+[I 12:39:07.441 NotebookApp] Adapting to protocol v5.1 for kernel 49f0d7a9-bfa1-4945-8f17-5161a49f79ed
+[I 12:39:07.824 NotebookApp] Adapting to protocol v5.1 for kernel bc567f95-ffd3-409e-b823-cd0ae93f7c46
+[I 12:39:14.264 NotebookApp] Starting buffering for bc567f95-ffd3-409e-b823-cd0ae93f7c46:5a1404a8359d4495b8b3199119498203
+[I 12:40:45.635 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[I 12:41:06.691 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 12:41:34.027 NotebookApp] Saving file at /TOPO 1 Experiment Results .ipynb
+[W 12:41:34.407 NotebookApp] Notebook TOPO 1 Experiment Results .ipynb is not trusted
+[W 12:41:35.919 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 12:41:35.946 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 99.64ms referer=http://localhost:8888/nbconvert/html/TOPO%201%20Experiment%20Results%20.ipynb?download=false
+Gtk-Message: 12:42:16.287: GtkDialog mapped without a transient parent. This is discouraged.
+[W 12:42:27.889 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 12:42:27.892 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 77.31ms referer=http://localhost:8888/nbconvert/html/TOPO%202%20Experiment%20Results.ipynb?download=false
+[I 12:45:06.395 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[I 12:47:03.208 NotebookApp] Saving file at /TOPO 2 Experiment Results.ipynb
+[W 12:47:08.750 NotebookApp] Notebook TOPO 2 Experiment Results.ipynb is not trusted
+[W 12:47:10.070 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 12:47:10.079 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 69.92ms referer=http://localhost:8888/nbconvert/html/TOPO%202%20Experiment%20Results.ipynb?download=false
+Gtk-Message: 12:47:46.163: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 12:50:28.879: GtkDialog mapped without a transient parent. This is discouraged.
