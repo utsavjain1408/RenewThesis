@@ -5,13 +5,13 @@ from time import sleep
 data = []
 
 def load_data():
-    with open(r"/home/thesis/Downloads/data_1.json", 'r') as file:
+    with open(r"/home/utsav_jain/RenewThesis/data/data_1.json", 'r') as file:
         data_1 = file.read()
-    with open(r"/home/thesis/Downloads/data_2.json", 'r') as file:
+    with open(r"/home/utsav_jain/RenewThesis/data/data_2.json", 'r') as file:
         data_2 = file.read()
-    with open(r"/home/thesis/Downloads/data_3.json", 'r') as file:
+    with open(r"/home/utsav_jain/RenewThesis/data/data_3.json", 'r') as file:
         data_3 = file.read()
-    with open(r"/home/thesis/Downloads/data_4.json", 'r') as file:
+    with open(r"/home/utsav_jain/RenewThesis/data/data_4.json", 'r') as file:
         data_4 = file.read()
     
     data.append(json.dumps(data_1))
@@ -28,7 +28,8 @@ def getOrganInfoJson(organID):
         organ_info_json = json.loads(organ_json["donorInfo"])
     except Exception as e:
         print e
-        organ_info_json=""
+        print("NULL, Sending empty dict.")
+        organ_info_json={}
     return organ_info_json
 
 def getCandidateInfoJson(candidateID):
@@ -39,7 +40,9 @@ def getCandidateInfoJson(candidateID):
         organ_info_json = json.loads(organ_json["candidateInfo"])
     except Exception as e:
         print e
-        organ_info_json=''
+        print("ERROR IN getOrganInfoJson, sending empty dict")
+        organ_info_json={}
+        #organ_info_json=''
     return organ_info_json
 
 def addOrgan(organ_id = '', organ_name='', organ_data=''):
@@ -59,13 +62,19 @@ def addOrgan(organ_id = '', organ_name='', organ_data=''):
         candidateInfo = getCandidateInfoJson(candidate)
     #       Find match
         match = len(candidateInfo.keys())
-
-        for key in candidateInfo.keys():
-            if(candidateInfo[key]==organInfoJson[key]):
-                match -=1
-                continue
-            else:
-                break
+        try:
+            for key in candidateInfo.keys():
+                #print("-->candidateInfo[%s] : %s" % (key,candidateInfo[key]))
+                #print("TYPE %s"%type(organInfoJson))
+                #print("-->organInfoJson[%s] : %s" % (key,organInfoJson[key]))
+                # print("TYPE %s"%type(organInfoJson))
+                if(candidateInfo[key]==organInfoJson[key]):
+                    match -=1
+                    continue
+                else:
+                    break
+        except Exception as e:
+            print(e)
         print("Match %s " % match )
         if(match <= 0):
             transfer(candidate, organ_id)
@@ -143,24 +152,25 @@ def transfer(organid, candidateid):
     cmd +=  '-c \'{\"Args\":[\"transferOrgan",\"' + str(organid) + '\",\"' + str(candidateid) + '\"]}\''
     commands.getstatusoutput(cmd)
 
-def generateLoad():
-    for i in range(15):
+def generateLoad(transactions=15,sleep_for=10):
+    
+    for i in range(transactions):
         cmd = addCandidate(str(i+8000), "Intestine", data[i%4])
-        sleep(10)
+        sleep(sleep_for)
         
-    for i in range(15):
+    for i in range(transactions):
         cmd = addOrgan(str(i+4000), "Intestine", data[i%4])
-        sleep(10)
+        sleep(sleep_for)
         
-    for i in range(15):
+    for i in range(transactions):
         cmd = getCandidateInfoJson(str(i+8000))
         print("getCandidateInfoJson %s" % (i+8000))
-        sleep(10)
+        sleep(sleep_for)
         
-    for i in range(15):
+    for i in range(transactions):
         cmd = getOrganInfoJson(str(i+4000))
         print("getOrganInfoJson %s" % (i+4000))
-        sleep(10)
+        sleep(sleep_for)
 
 if __name__ == "__main__":
     # getAllOrgans()
@@ -170,4 +180,4 @@ if __name__ == "__main__":
     print("Data Loaded")
     # Test add organ
     print("Starting to generate Load.")
-    generateLoad()
+    generateLoad(transactions=50, sleep_for=15)
