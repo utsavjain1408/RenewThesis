@@ -13,6 +13,6 @@
   "author": "Utsav Jain",
   "license": "ISC",
   "dependencies": {
-    "fabric-shim": "~1.4.0"
+    "fabric-shim": "~1.4.6"
   }
 }
